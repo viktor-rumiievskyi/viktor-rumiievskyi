@@ -19,13 +19,14 @@ I am finishing my studies at the University of Wistula (Akademia Finansow i Bizn
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&labelColor=black)
 
-<a href="https://drive.google.com/file/d/10isuAlbVVxLAVnXjGItZjvpTmf9Wte-a/view?usp=sharing">dsfdsf</a>
+<a href="https://drive.google.com/file/d/1ECZp2gR9UFuIthsdYZ7G4osbFEMNhnKV/view?usp=sharing">My Resume</a>
 
 
 
 <br>
 </br>
 
+### My stats
 
 <img align="left" width="47%" alt="Viktor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=highcontrast"></img>
 <img align="left" width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-rumiievskyi&layout=compact"></img>
