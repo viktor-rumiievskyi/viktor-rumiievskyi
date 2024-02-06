@@ -27,8 +27,8 @@ I am finishing my studies at the University of Wistula (Akademia Finansow i Bizn
 
 ### My stats
 
-<img align="left" width="47%" alt="Viktor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=highcontrast"></img>
-<img align="left" width="49%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-rumiievskyi&layout=compact"></img>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-rumiievskyi&layout=compact)
 
 <br>
 </br>
