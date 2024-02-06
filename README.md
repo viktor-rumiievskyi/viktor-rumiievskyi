@@ -23,8 +23,7 @@ I am finishing my studies at the University of Wistula (Akademia Finansow i Bizn
 
 
 
-<br>
-</br>
+
 
 ### My stats
 
