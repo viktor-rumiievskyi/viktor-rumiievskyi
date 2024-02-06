@@ -19,13 +19,12 @@ I am finishing my studies at the University of Wistula (Akademia Finansow i Bizn
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&labelColor=black)
 
+### Bizness 📎
 <a href="https://drive.google.com/file/d/1ECZp2gR9UFuIthsdYZ7G4osbFEMNhnKV/view?usp=sharing">My Resume</a>
 
 
 
-
-
-### My stats
+### My stats 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-rumiievskyi&layout=compact)
@@ -33,7 +32,7 @@ I am finishing my studies at the University of Wistula (Akademia Finansow i Bizn
 <br>
 </br>
 
-### Profile views counter
+### Profile views counter 
 
 
 [![Viktor Rumiievskyi profile views](https://u8views.com/api/v1/github/profiles/103135141/views/day-week-month-total-count.svg)](https://u8views.com/github/viktor-rumiievskyi)
