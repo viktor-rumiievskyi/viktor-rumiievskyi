@@ -1,49 +1,91 @@
-<h1 align="center">🚀 Viktor Rumiievskyi</h1>
+
+<h1 align="center">👋 Hi, I'm Viktor Rumiievskyi</h1>
 <p align="center">
-  <b>Full-Stack Developer</b>  • Problem Solver • Builder of digital products from scratch
+  <b>Full-Stack Developer</b> | Builder of modern web systems | Product-minded engineer
 </p>
 
 ---
 
-## 🎯 Goal
+## 🚀 About Me
 
-Looking for a **remote position in web development** (Full-Stack or Frontend) at a company that values initiative, teamwork, and impactful solutions.  
-I enjoy building meaningful products that make a real difference for users or businesses.
+I'm a full-stack web developer with strong hands-on experience building responsive, scalable, and maintainable applications.  
+From running a retail business to developing full-fledged digital products — I combine technical execution with business thinking.
 
----
-
-## 🧠 About Me
-
-- 👨‍💻 Developer capable of building complete solutions – from backend logic to dynamic frontend.  
-- 🛒 Entrepreneur with real experience managing a retail store – I understand business needs from the inside.  
-- 📈 Self-taught: gained practical experience by creating full-fledged commercial systems.  
-- 🧩 Love structured systems, clear architecture, and process automation.  
-- ⚡ Thrive under pressure, take ownership of results, and enjoy teamwork.
+- 👨‍💻 Focus: React, Node.js, MongoDB, clean code & architecture  
+- 🚀 Projects: CRM systems, portfolios, dashboards, interactive UIs  
+- 📦 Background: Freelance, product ownership, store management  
+- 🎯 Goal: Build systems that solve real problems and bring value  
+- 💬 Approach: Think in flows, design scalable components, automate smartly
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,nextjs,figma,html,css,git" alt="stack" />
-
-- **Languages:** JavaScript, TypeScript  
-- **Frontend:** React, Next.js, Tailwind CSS, Zustand  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Tools:** Git, Postman, Figma, Vercel, Render
----
-
-## 🌟 Featured Projects
-
-| 🔧 Project | 💡 Description | 🔗 Link |
-|-----------|----------------|---------|
-| **Dyplom** | CRM for auto repair shop: client tracking, appointments, workflow automation | [Repo](https://github.com/viktor-rumiievskyi/Dyplom) |
-| **Personal Portfolio** | Stylish animated portfolio with interactivity and responsive design | [Repo](https://github.com/viktor-rumiievskyi/Personal-Portfolio) |
-| **Particles Morph** | Animated particle morphing visualization using Three.js | [Repo](https://github.com/viktor-rumiievskyi/Particles-Morph) |
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,nextjs,git,figma,postman" alt="Stack" />
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Featured Projects (with preview & live demos)
+
+### 🎓 Dyplom — CRM for Auto Repair
+
+- Full-featured app with auth, admin panel, chat, and status tracking  
+- Stack: MERN (MongoDB, Express, React, Node.js)
+
+**🟢 Live Demo**: [dyplom.vercel.app](https://dyplom.vercel.app)  
+**📸 Preview:**
+
+![Dyplom Preview](https://your-screenshot-url.com/dyplom.gif)
+
+---
+
+### 🌐 Personal Portfolio
+
+- Animated portfolio website to showcase my work and skills  
+- Fully responsive, custom sections, transitions and scroll
+
+**🟢 Live Demo**: [portfolio.vercel.app](https://personal-portfolio1-alpha.vercel.app/)  
+**📸 Preview:**
+
+![Portfolio Preview](https://your-screenshot-url.com/portfolio.gif)
+
+---
+
+### 🌌 Particles Morph
+
+- Particle animation using Three.js, morphs between shapes in real-time
+
+**🟢 Live Demo**: [particles.vercel.app](https://particles.vercel.app)  
+**📸 Preview:**
+
+![Particles Preview](https://your-screenshot-url.com/particles.gif)
+
+---
+
+### 📝 Todo List
+
+- Task manager app with Zustand, local state and modular structure
+
+**🟢 Live Demo**: [todo.vercel.app](https://todo.vercel.app)  
+**📸 Preview:**
+
+![Todo Preview](https://your-screenshot-url.com/todo.gif)
+
+---
+
+### 🌐 Translator App
+
+- Translate text between languages using an external API  
+- Simple UX with real-time conversion
+
+**🟢 Live Demo**: [translator.vercel.app](https://translator.vercel.app)  
+**📸 Preview:**
+
+![Translator Preview](https://your-screenshot-url.com/translator.gif)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=default" height="160"/>
@@ -55,20 +97,14 @@ I enjoy building meaningful products that make a real difference for users or bu
 
 ---
 
-## 📫 Contacts
+## 📬 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viktor-rumiievskyi-011a12206/)
-- 🌐 [Portfolio](https://viktor-rumiievskyi.github.io/Personal-Portfolio)
-- 📧 rumiievskyi.viktor@gmail.com
-
-### 📄 Resume QR
-
-Scan to download my resume:
-
-<p align="left">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://viktor-rumiievskyi.github.io/CV-Viktor-Rumiievskyi-English.pdf&size=150x150" alt="QR to Resume" />
-</p>
+- 🌍 [Portfolio](https://viktor-rumiievskyi.github.io/Personal-Portfolio)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/viktor-rumiievskyi-011a12206/)  
+- 📧 vityok05042002@gmail.com  
+- 📄 [CV (PDF)](https://viktor-rumiievskyi.github.io/CV-Viktor-Rumiievskyi-English.pdf)  
+- 📱 Telegram: [@Vityok_1](https://t.me/Vityok_1)
 
 ---
 
-> 💬 *"I don’t just write code. I build solutions that work and bring real value."*
+> 💬 *"I don't just build apps — I design scalable systems that users enjoy and businesses rely on."*
