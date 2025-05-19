@@ -1,38 +1,74 @@
-### Hi, I'm Viktor  👋
+<h1 align="center">🚀 Viktor Rumiievskyi</h1>
+<p align="center">
+  <b>Full-Stack Developer</b>  • Problem Solver • Builder of digital products from scratch
+</p>
 
-I am finishing my studies at the University of Wistula (Akademia Finansow i Biznesu Vistula) in Warsaw, Poland. I am majoring in Web Technology Design. This field is attractive because your work is related to the modern requirements of humanity and the results are realized almost instantly using modern global technologies. I want to develop in this direction.
+---
 
-:mailbox: Reach me out!!
+## 🎯 Goal
 
-[![Static Badge](https://img.shields.io/badge/Viktor%20Rumiievskyi-%230866FF?style=flat&logo=facebook&labelColor=black&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100088222324191)](https://www.facebook.com/profile.php?id=100088222324191)
-[![Static Badge](https://img.shields.io/badge/Viktor%20Rumiievskyi-%230A66C2?style=flat&logo=linkedin&labelColor=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fviktor-rumiievskyi-011a12206%2F)](https://www.linkedin.com/in/viktor-rumiievskyi-011a12206/)
-[![Static Badge](https://img.shields.io/badge/Viktor%20Rumiievskyi-%2326A5E4?style=flat&logo=telegram&labelColor=black&link=https%3A%2F%2Ft.me%2FVityok_1)](https://t.me/Vityok_1)
-[![Static Badge](https://img.shields.io/badge/Viktor%20Rumiievskyi(Portfolio)-%236495ED?style=flat&link=https%3A%2F%2Fviktor-rumiievskyi.github.io%2FPersonal-Portfolio%2F)](https://viktor-rumiievskyi.github.io/Personal-Portfolio/)
+Looking for a **remote position in web development** (Full-Stack or Frontend) at a company that values initiative, teamwork, and impactful solutions.  
+I enjoy building meaningful products that make a real difference for users or businesses.
 
+---
 
-### Top Technologies
+## 🧠 About Me
 
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
-![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
-![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black)
-![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&labelColor=black)
+- 👨‍💻 Developer capable of building complete solutions – from backend logic to dynamic frontend.  
+- 🛒 Entrepreneur with real experience managing a retail store – I understand business needs from the inside.  
+- 📈 Self-taught: gained practical experience by creating full-fledged commercial systems.  
+- 🧩 Love structured systems, clear architecture, and process automation.  
+- ⚡ Thrive under pressure, take ownership of results, and enjoy teamwork.
 
-### Bizness 📎
-<a href="https://drive.google.com/file/d/1ECZp2gR9UFuIthsdYZ7G4osbFEMNhnKV/view?usp=sharing">My Resume</a>
+---
 
+## 🔧 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,tailwind,vite,nextjs,figma,html,css,git" alt="stack" />
 
-### My stats 📈
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Tailwind CSS, Zustand  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Tools:** Git, Postman, Figma, Vercel, Render
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-rumiievskyi&layout=compact)
+## 🌟 Featured Projects
 
-<br>
-</br>
+| 🔧 Project | 💡 Description | 🔗 Link |
+|-----------|----------------|---------|
+| **Dyplom** | CRM for auto repair shop: client tracking, appointments, workflow automation | [Repo](https://github.com/viktor-rumiievskyi/Dyplom) |
+| **Personal Portfolio** | Stylish animated portfolio with interactivity and responsive design | [Repo](https://github.com/viktor-rumiievskyi/Personal-Portfolio) |
+| **Particles Morph** | Animated particle morphing visualization using Three.js | [Repo](https://github.com/viktor-rumiievskyi/Particles-Morph) |
 
-### Profile views counter 
+---
 
+## 📊 GitHub Stats
 
-[![Viktor Rumiievskyi profile views](https://u8views.com/api/v1/github/profiles/103135141/views/day-week-month-total-count.svg)](https://u8views.com/github/viktor-rumiievskyi)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viktor-rumiievskyi&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-rumiievskyi&layout=compact&theme=default" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=viktor-rumiievskyi&theme=default" height="160"/>
+</p>
+
+---
+
+## 📫 Contacts
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/viktor-rumiievskyi-011a12206/)
+- 🌐 [Portfolio](https://viktor-rumiievskyi.github.io/Personal-Portfolio)
+- 📧 rumiievskyi.viktor@gmail.com
+
+### 📄 Resume QR
+
+Scan to download my resume:
+
+<p align="left">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://viktor-rumiievskyi.github.io/CV-Viktor-Rumiievskyi-English.pdf&size=150x150" alt="QR to Resume" />
+</p>
+
+---
+
+> 💬 *"I don’t just write code. I build solutions that work and bring real value."*
