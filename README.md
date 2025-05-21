@@ -33,9 +33,7 @@ From running a retail business to developing full-fledged digital products — I
 - Stack: MERN (MongoDB, Express, React, Node.js)
 
 **🟢 Live Demo**: [dyplom.vercel.app](https://dyplom.vercel.app)  
-**📸 Preview:**
 
-![Dyplom Preview](https://your-screenshot-url.com/dyplom.gif)
 
 ---
 
@@ -45,9 +43,7 @@ From running a retail business to developing full-fledged digital products — I
 - Fully responsive, custom sections, transitions and scroll
 
 **🟢 Live Demo**: [portfolio.vercel.app](https://personal-portfolio1-alpha.vercel.app/)  
-**📸 Preview:**
 
-![Portfolio Preview](https://your-screenshot-url.com/portfolio.gif)
 
 ---
 
@@ -56,9 +52,7 @@ From running a retail business to developing full-fledged digital products — I
 - Particle animation using Three.js, morphs between shapes in real-time
 
 **🟢 Live Demo**: [particles.vercel.app](https://particles.vercel.app)  
-**📸 Preview:**
 
-![Particles Preview](https://your-screenshot-url.com/particles.gif)
 
 ---
 
@@ -67,9 +61,7 @@ From running a retail business to developing full-fledged digital products — I
 - Task manager app with Zustand, local state and modular structure
 
 **🟢 Live Demo**: [todo.vercel.app](https://todo.vercel.app)  
-**📸 Preview:**
 
-![Todo Preview](https://your-screenshot-url.com/todo.gif)
 
 ---
 
@@ -79,9 +71,7 @@ From running a retail business to developing full-fledged digital products — I
 - Simple UX with real-time conversion
 
 **🟢 Live Demo**: [translator.vercel.app](https://translator.vercel.app)  
-**📸 Preview:**
 
-![Translator Preview](https://your-screenshot-url.com/translator.gif)
 
 ---
 
