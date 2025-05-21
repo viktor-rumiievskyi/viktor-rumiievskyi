@@ -92,7 +92,7 @@ From running a retail business to developing full-fledged digital products — I
 - 🌍 [Portfolio](https://viktor-rumiievskyi.github.io/Personal-Portfolio)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/viktor-rumiievskyi-011a12206/)  
 - 📧 vityok05042002@gmail.com  
-- 📄 [CV (PDF)](https://viktor-rumiievskyi.github.io/CV-Viktor-Rumiievskyi-English.pdf)  
+- 📄 [CV (PDF)](https://drive.google.com/file/d/1ZAWNPg0cFKDI0W3-PKh72oFL3VNEiZMG/view?usp=drive_link)  
 - 📱 Telegram: [@Vityok_1](https://t.me/Vityok_1)
 
 ---
